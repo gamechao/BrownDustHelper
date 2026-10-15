@@ -18,6 +18,12 @@ This repository distributes binaries and documentation only; source code is not 
 
 Extract the ZIP before installation. BrownDustHelper runs inside the game and is not a standalone desktop application.
 
+## 视频教程 / Video Tutorial
+
+- [不懂画画也能改皮肤！棕色尘埃2 AI制作MOD手把手教程（哔哩哔哩）](https://www.bilibili.com/video/BV1GHJk6oEix/)
+
+Step-by-step video tutorial: create Brown Dust 2 skin MODs with AI, even without drawing skills. Watch on Bilibili using the link above.
+
 ## 安装 / Installation
 
 | 步骤 / Step | 中文 | English |
