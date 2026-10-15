@@ -4,9 +4,9 @@ BrownDustHelper 是游戏内素材导出工具，需要与 [ModStudio](https://g
 
 ## 下载
 
-- [下载 BrownDustHelper.zip](https://github.com/gamechao/BrownDustHelper/raw/refs/heads/main/BrownDustHelper.zip)
-- [下载配套 ModStudio.zip](https://github.com/gamechao/ModStudio/raw/refs/heads/main/ModStudio.zip)
-- [查看压缩包 SHA-256 校验和](SHA256SUMS.txt)
+- [下载 BrownDustHelper.zip](https://github.com/gamechao/BrownDustHelper/releases/download/v1.0.1/BrownDustHelper.zip)
+- [下载配套 ModStudio.zip](https://github.com/gamechao/ModStudio/releases/download/v1.0.0/ModStudio.zip)
+- [下载 SHA-256 校验和](https://github.com/gamechao/BrownDustHelper/releases/download/v1.0.1/SHA256SUMS.txt)
 
 下载后先解压。BrownDustHelper 是游戏插件，不能作为独立桌面程序启动。
 
